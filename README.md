@@ -11,5 +11,5 @@ function on_wapl_detected(){
     alert("Wappalyzerを検知しました。");
 }
 ```
-みたいなjsを書いておけば検知されたときアラートを表示させれます。
+みたいなjsを書いておけば検知されたときアラートを表示させれます。<br>
 [デモ](https://n-mache.work/wapl_detector.php)
